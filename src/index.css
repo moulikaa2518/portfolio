@@ -203,9 +203,7 @@ height: 40vh;
 .certificate-card a:hover {
   text-decoration: underline;
 }
-.bb{
-  /* background-color: antiquewhite; */
-}
+
 .t{
   display: flex;
   justify-content: center;
